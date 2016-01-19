@@ -1,2 +1,2 @@
 # tir
-Programa implementado en python que calcula la Taza Interna de Retorno
+Programa implementado en python que calcula la Tasa Interna de Retorno
